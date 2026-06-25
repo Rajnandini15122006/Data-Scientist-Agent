@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+nbformat
+nbconvert
+google-generativeai
+joblib
+openpyxl
+shap
+sse-starlette
+xgboost
